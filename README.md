@@ -8,7 +8,7 @@ looking for missing people, the issue of clandestine graves and the discovery of
 *Trajectory example*
 
 ### Instructions
-The final report with full documentation of the project is found at report/finalreport.pdf all the code to reproduce the development can be found at code
+The final report with full documentation of the project is found at report/finalreport.pdf the trajectories which cannot be seen from the pdf are located under the report folder as well. All the code to reproduce the development can be found at the code folder.
 
 ### Repository structure
 This repository has the following structure:
